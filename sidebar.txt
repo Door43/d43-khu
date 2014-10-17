@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[khu:home|Door43 (khu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-khu|d43-khu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-khu/archive/master.zip|d43-khu.zip]]
+
+**Recent Changes**
+{{changes>ns = khu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/khu|Ethnologue data]]
+
